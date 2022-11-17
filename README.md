@@ -1,6 +1,6 @@
 
 
-## - 👋 Hi, I’m @daluwarsajib
+##  👋 Hi, I’m @daluwarsajib
 - 👀 I’m interested in Man & Woman
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ****
