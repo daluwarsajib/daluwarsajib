@@ -8,4 +8,3 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=daluwarsajib)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=daluwarsajib&theme=highcontrast&hide_border=true&mode=weekly)]
